@@ -18,9 +18,10 @@ STEPS:
 2. Extract all the files of COVID_19_India_Dashboard.zip
 3. Download Tableau Desktop from https://downloads.tableau.com/tssoftwareregistered/TableauDesktop-64bit-2020-2-0.exe
 4. Install Tableau correctly and run it.
-5. Open COVID-19 INDIA.twb in Tableau.
-6. Add the dataset in the tableau and like refresh extract in tableau.
-7. ENJOY 😁
+5. Download COVID_19_India_Statewise dataset from the resource folder.
+6. Open COVID-19 INDIA.twb in Tableau.
+7. Add the dataset in the tableau and like refresh extract in tableau.
+8. ENJOY 😁
 
 Note:
 
